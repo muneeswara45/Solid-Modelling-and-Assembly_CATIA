@@ -1,11 +1,5 @@
 # Design a compact consumer product by creating a detailed 3D solid model that balances strength, weight, and aesthetics; then develop a complete assembly with proper constraints and clearances to ensure functional fit; perform simulations to evaluate structural integrity and durability under real-world operating conditions; finally, prepare the model for prototyping using suitable manufacturing methods and document the entire process and improvements for presentation.
 
-#NAME: 
- MUNEESWARAN S (212223080034)
- 
-# TITLE OF THE PRODUCT:
- COTTER JOINT
- 
 
 # DESCRIPTION:
  First, the socket was fixed as the base component. Then, the spigot was inserted and aligned with the socket using coincidence constraints to ensure both are on the same axis. After that, the cotter was positioned through the aligned slots using appropriate constraints so that it fits properly.The main aim of this assembly is to show how the cotter locks both parts together and allows transmission of axial force without relative movement. This process helped in understanding constraint application and real-time assembly of mechanical joints.
