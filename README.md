@@ -2,21 +2,18 @@
 
 
 # DESCRIPTION:
-First, the piston head was fixed as the base component. Then, the piston pin was inserted and aligned with the piston head using appropriate constraints to ensure proper positioning along the required axis. After that, the connecting rod was positioned between the piston bosses and aligned with the piston pin using suitable constraints. The components were assembled carefully to ensure proper fit and alignment.
+First, the connecting rod was fixed as the base component. Then, the piston pin was inserted and aligned with the small end of the connecting rod using appropriate constraints to ensure proper positioning along the required axis. After that, the crank pin was positioned and aligned with the big end of the connecting rod using suitable constraints. The components were assembled carefully to ensure proper fit, alignment, and movement.
 
-The main aim of this assembly is to demonstrate how the piston head, piston pin, and connecting rod are connected to form a functional piston mechanism and allow the transmission of force during the reciprocating motion of the piston. This process helped in understanding constraint application, component alignment, and the real-time assembly of mechanical components.
+The main aim of this assembly is to demonstrate how the connecting rod connects the piston and crankshaft and helps transmit force and motion between them. This process helped in understanding constraint application, component alignment, and the real-time assembly and movement of mechanical components in CATIA.
 
 
 # CHALLENGES FACED TO DEVELOP:
-While assembling the piston head in CATIA, aligning the piston pin and connecting rod properly was difficult at first. Small errors in axis alignment caused improper positioning of the components. Positioning the connecting rod accurately between the piston bosses was also challenging since it required proper alignment and fit. Sometimes, applying too many constraints led to over-constraining errors. There were also issues with parts overlapping due to incorrect constraints or positioning. Fixing the piston head as the base component was necessary to prevent unwanted movement during assembly. Understanding which constraint to apply at each stage required some practice. Overall, maintaining proper alignment, dimensional accuracy, and correct constraint application was the main challenge during the piston head assembly.
-
- 
+While assembling the connecting rod in CATIA, aligning the piston pin and crank pin properly was difficult at first. Small errors in axis alignment caused improper positioning of the components. Positioning the connecting rod accurately with the piston pin and crank pin was also challenging since it required precise alignment and proper fit. Sometimes, applying too many constraints led to over-constraining errors. There were also issues with parts overlapping due to incorrect constraints or positioning. Fixing the connecting rod as the base component was necessary to prevent unwanted movement during assembly. Understanding which constraint to apply at each stage required some practice. Overall, maintaining proper alignment, dimensional accuracy, and correct constraint application was the main challenge during the connecting rod assembly.
 
 # SOLID MODELS:
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d29b0472-3ea8-4a34-a319-4663f48f9746" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6f1d8af5-22ff-493b-ae9b-3c2f396fad82" />
 
 
 
 # INFERENCE:
- The piston head assembly developed in CATIA demonstrates how individual components can be combined to form a functional mechanical assembly. It highlights the importance of proper alignment, accurate positioning, and correct use of constraints. The model also helps in understanding the movement of the piston components and the transmission of force through the assembly. Overall, this exercise improves practical knowledge of assembly design, constraint application, and mechanical modeling in CAD.
-
+The connecting rod assembly developed in CATIA demonstrates how individual components can be combined to form a functional mechanical assembly. It highlights the importance of proper alignment, accurate positioning, and correct use of constraints. The model also helps in understanding the movement of the connecting rod and the transmission of force between the piston and crankshaft. Overall, this exercise improves practical knowledge of assembly design, constraint application, and mechanical modeling in CAD.
